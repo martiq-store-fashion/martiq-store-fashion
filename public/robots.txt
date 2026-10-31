@@ -1,0 +1,4 @@
+# Demonstration store: blocked from search engines until launch.
+# At launch: remove the noindex meta tag in index.html and change to "Allow: /"
+User-agent: *
+Disallow: /
